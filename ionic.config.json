@@ -1,0 +1,7 @@
+{
+  "name": "ProbabilidaEstadistica",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
